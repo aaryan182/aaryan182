@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Frontend Mentor Challenges](https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl)**
+- 🔭 I’m currently building **projects**
 
 - 🌱 I’m currently learning **Web Development**
 
