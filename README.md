@@ -66,8 +66,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/aaryan-bajaj-b388ab205/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/AaryanBajaj18"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/aaryan-bajaj-b388ab205/" target= "_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/AaryanBajaj18" target= "_blank" ><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
 
