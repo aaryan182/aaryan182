@@ -14,11 +14,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
+- 💼 Portfolio : **http://tinyurl.com/ymkhco7b**
 
 - 📫 How to reach me **aaryanbajaj385@gmail.com**
-
-<!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
 
 ## 🚀 Skills:
 
@@ -72,8 +70,4 @@
 <a href = "https://twitter.com/AaryanBajaj18"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/aaryan182/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=aaryan182">
-</a>
-<a href="https://github.com/aaryan182?tab=followers"><img src="https://img.shields.io/github/followers/aaryan182?label=Followers&style=social" alt="GitHub Badge"></a>
+
