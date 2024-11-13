@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi , I'm Aaryan Bajaj<br>I am actively engaged in honing my skills as a MERN stack developer, diligently striving to elevate my expertise in this domain.<br>About Me<br>🔭 I’m currently building projects<br><br>🌱 I’m currently learning Web Development<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>💼 Portfolio : http://tinyurl.com/ymkhco7b<br><br>📫 How to reach me aaryanbajaj385@gmail.com
+Hi , I'm Aaryan Bajaj<br> How to reach me aaryanbajaj385@gmail.com
 
 
 ## 🌐 Socials:
